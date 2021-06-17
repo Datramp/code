@@ -1,0 +1,1 @@
+[Net.WebRequest]::DefaultWebProxy.Credentials = [Net.CredentialCache]::DefaultCredentials;
